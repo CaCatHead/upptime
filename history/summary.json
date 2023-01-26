@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/upptime.cacathead.cn.ico",
     "slug": "upptime",
     "status": "up",
-    "uptime": "1.26%",
-    "uptimeDay": "1.26%",
-    "uptimeWeek": "1.26%",
-    "uptimeMonth": "1.26%",
-    "uptimeYear": "1.26%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 374,
     "timeDay": 374,
     "timeWeek": 374,
     "timeMonth": 374,
     "timeYear": 374,
-    "dailyMinutesDown": {
-      "2023-01-26": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
