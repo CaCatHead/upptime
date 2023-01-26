@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://cacathead.cn/favicon.png
   name: CaCatHead Upptime
   introTitle: CaCatHead Status Monitor
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Use **real-time** data from our [Github repository](https://github.com/koj-co/upptime) powered by open-source uptime monitor **Upptime** and **GitHub**.
   navbar:
     - title: Status
       href: /
