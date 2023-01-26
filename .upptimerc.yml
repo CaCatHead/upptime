@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: CaCatHead
     url: https://cacathead.cn
+  - name: XLorPaste OJ
+    url: https://oj.xlorpaste.cn
   - name: Docs
     url: https://docs.cacathead.cn
   - name: Upptime
