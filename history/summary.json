@@ -40,7 +40,7 @@
     "url": "https://docs.cacathead.cn",
     "icon": "https://icons.duckduckgo.com/ip3/docs.cacathead.cn.ico",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 383,
     "timeMonth": 383,
     "timeYear": 383,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-28": 0
+    }
   },
   {
     "name": "Upptime",
