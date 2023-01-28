@@ -40,19 +40,19 @@
     "url": "https://docs.cacathead.cn",
     "icon": "https://icons.duckduckgo.com/ip3/docs.cacathead.cn.ico",
     "slug": "docs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 349,
-    "timeWeek": 383,
-    "timeMonth": 383,
-    "timeYear": 383,
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 362,
+    "timeDay": 293,
+    "timeWeek": 362,
+    "timeMonth": 362,
+    "timeYear": 362,
     "dailyMinutesDown": {
-      "2023-01-28": 0
+      "2023-01-28": 10
     }
   },
   {
