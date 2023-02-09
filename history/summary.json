@@ -22,7 +22,7 @@
     "url": "https://oj.xlorpaste.cn",
     "icon": "https://icons.duckduckgo.com/ip3/oj.xlorpaste.cn.ico",
     "slug": "x-lor-paste-oj",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1417,
     "timeMonth": 1483,
     "timeYear": 1483,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-09": 0
+    }
   },
   {
     "name": "Docs",
