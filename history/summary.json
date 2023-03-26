@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cacathead.cn.ico",
     "slug": "ca-cat-head",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1302,
-    "timeDay": 1183,
-    "timeWeek": 1115,
-    "timeMonth": 1128,
+    "timeDay": 1366,
+    "timeWeek": 1090,
+    "timeMonth": 1145,
     "timeYear": 1302,
-    "dailyMinutesDown": {
-      "2023-03-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "XLorPaste OJ",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1771,
-    "timeDay": 1334,
-    "timeWeek": 1531,
-    "timeMonth": 1525,
-    "timeYear": 1771,
+    "time": 1765,
+    "timeDay": 1386,
+    "timeWeek": 1502,
+    "timeMonth": 1523,
+    "timeYear": 1765,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 266,
-    "timeWeek": 253,
-    "timeMonth": 292,
-    "timeYear": 302,
+    "time": 299,
+    "timeDay": 116,
+    "timeWeek": 220,
+    "timeMonth": 281,
+    "timeYear": 299,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 264,
-    "timeWeek": 246,
-    "timeMonth": 263,
-    "timeYear": 252,
+    "time": 250,
+    "timeDay": 178,
+    "timeWeek": 255,
+    "timeMonth": 259,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   }
 ]
