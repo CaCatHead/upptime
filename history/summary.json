@@ -4,9 +4,9 @@
     "url": "https://cacathead.cn",
     "icon": "https://icons.duckduckgo.com/ip3/cacathead.cn.ico",
     "slug": "ca-cat-head",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 981,
     "timeMonth": 1407,
     "timeYear": 1360,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-16": 0
+    }
   },
   {
     "name": "XLorPaste OJ",
