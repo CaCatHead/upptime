@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cacathead.cn.ico",
     "slug": "ca-cat-head",
     "status": "down",
-    "uptime": "31.70%",
+    "uptime": "31.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "31.70%",
+    "uptimeYear": "31.61%",
     "time": 1360,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1360,
     "dailyMinutesDown": {
-      "2023-10-06": 25,
+      "2023-10-06": 969,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
@@ -197,9 +197,9 @@
     "url": "https://oj.xlorpaste.cn",
     "icon": "https://icons.duckduckgo.com/ip3/oj.xlorpaste.cn.ico",
     "slug": "x-lor-paste-oj",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -208,7 +208,9 @@
     "timeWeek": 1642,
     "timeMonth": 1689,
     "timeYear": 1729,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-06": 0
+    }
   },
   {
     "name": "Docs",
